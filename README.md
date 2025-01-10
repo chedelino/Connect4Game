@@ -37,7 +37,7 @@ Welcome to the Connect Four Game repository! Enjoy this fun, interactive project
    ```
 
 2. **Open the Project**:
-   Navigate to the directory and open `index.html` in your browser:
+   Navigate to the directory and open `fichier.html` in your browser:
    ```bash
    cd connect4Game
    open fichier.html
