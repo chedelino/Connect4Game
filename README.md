@@ -2,7 +2,7 @@
 
 Welcome to the Connect Four Game repository! Enjoy this fun, interactive project where the classic Connect Four game meets modern web technologies. Whether you’re a developer looking to learn or a casual player wanting a quick game, this project has something for everyone.
 
-![image](https://github.com/user-attachments/assets/526d791f-78a6-4f95-889d-6d0f95f64f5f)
+<img src="https://github.com/user-attachments/assets/526d791f-78a6-4f95-889d-6d0f95f64f5f" alt="image" width="400px">
 
 ---
 
