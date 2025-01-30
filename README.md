@@ -79,27 +79,6 @@ connect4Game/
 
 ---
 
-🤝 **Contributions**:
-
-We welcome all contributors! Feel free to fork this repository and submit your ideas:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. **Commit Your Changes**:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. **Push to Your Branch**:
-   ```bash
-   git push origin feature-name
-   ```
-5. **Open a Pull Request**
-
----
-
 
 🎉 **Enjoy Playing!**
 
